@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-research-yellow.svg)
 
 ## 📋 Overview
-
+This research project earned the Florence Nightingale Award for Statistical Insight at the 2025 Florence Nightingale Symposium at UC Riverside.
 This repository contains research work on dental image analysis using deep learning techniques. The project aims to develop automated systems for detecting, classifying, and analyzing dental conditions from clinical images, contributing to smart healthcare and dental informatics.
 
 ## 🎯 Project Objectives
